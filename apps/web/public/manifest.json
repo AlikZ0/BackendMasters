@@ -1,0 +1,15 @@
+{
+  "name": "BackendMasters",
+  "short_name": "BackendMasters",
+  "description": "Стань Senior Node.js Backend разработчиком через интерактивные курсы, проекты и system design.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070a13",
+  "theme_color": "#7c5cff",
+  "orientation": "portrait-primary",
+  "lang": "ru",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
